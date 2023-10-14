@@ -254,7 +254,7 @@ npm install -g expo-cli
 3. Clone the GitHub repository: 
 
 ```sh 
-git clone https://github.com/Rayan-Emad1/EcoTech  
+git clone https://github.com/Rayan-Emad1/-EcoTech  
 ```
 
 <br>
